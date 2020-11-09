@@ -10,4 +10,4 @@ TODO:
 - battery managment (on 10.14 works)
 
 DONE: 
-~~- headphones~~
+- ~~headphones~~
