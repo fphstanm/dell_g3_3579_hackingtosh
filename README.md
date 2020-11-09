@@ -4,8 +4,7 @@ Started configuring macOS Catalina 10.15.7 for Dell g3 3579 Intel i5-8300H | del
 
 TODO:
 - trackpad advanced settings (on 10.14 works)
-  //Tried to replace Trackpad.pane with working mojave, it doesnt help
-  //Used several kexts, it doesnt help
+  //Tried to replace Trackpad.pane with working mojave, used several kexts, it doesn't help
 - fix ACPI exceptions (on 10.14 works)
 - battery managment (on 10.14 works)
 
